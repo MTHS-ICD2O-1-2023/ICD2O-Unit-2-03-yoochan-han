@@ -1,5 +1,5 @@
 /* Created by: Yoochan Han
-* Created on: Mar 2024
+* Created on: Mar 2024 (edited on Apr 2024)
 * This file contains the CSS for index.html */
 
 
@@ -16,5 +16,13 @@ p {
 .right-image {
   width: 512px;
   height: 512px;
+  position: relative;
   float: right;
+  right: 40px;
+  top: 10px;
+}
+.myTextField {
+  position: relative;
+  top: 10px;
+  left: 20px;
 }
